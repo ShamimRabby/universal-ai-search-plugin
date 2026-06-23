@@ -31,7 +31,7 @@ Make sure you have Python 3.9 or higher installed locally.
 
 1. Clone the Workspace
 ```text
-git clone [https://github.com/ShamimRabby/universal-ai-search-plugin.git](https://github.com/ShamimRabby/universal-ai-search-plugin.git)
+git clone https://github.com/ShamimRabby/universal-ai-search-plugin.git
 cd universal-ai-search-plugin
 ```
 2. Install Free Open-Source Libraries
