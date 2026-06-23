@@ -13,7 +13,7 @@ Developed by [@ShamimRabby](https://github.com/ShamimRabby).
 
 ## 🛠️ Architecture Pipeline
 
-```text
+
 [User Natural Prompt] ──► [Intent Processor]
                                 │
                                 ▼
