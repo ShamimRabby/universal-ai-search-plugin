@@ -24,3 +24,31 @@ Developed by [@ShamimRabby](https://github.com/ShamimRabby).
                                 │
                                 ▼
               [Contextually Injected Output Payload] ──► [To Any local/Cloud LLM]
+```
+
+📋 Installation & Prerequisites
+Make sure you have Python 3.9 or higher installed locally.
+
+1. Clone the Workspace
+```text
+git clone [https://github.com/ShamimRabby/universal-ai-search-plugin.git](https://github.com/ShamimRabby/universal-ai-search-plugin.git)
+cd universal-ai-search-plugin
+```
+2. Install Free Open-Source Libraries
+```text
+pip install -r requirements.txt
+```
+3. Run the Microservice
+```text
+python main.py
+```
+The localized REST API will activate instantly at http://127.0.0.1:8000.
+
+🧪 Interactive API Sandbox
+FastAPI automatically mounts interactive API testing dashboards. Once running, access:
+👉 http://127.0.0.1:8000/docs
+
+Open the /v1/search-internet route, hit "Try it out", alter the query value to test real-time searches, and evaluate the JSON output data.
+
+🤝 Contribution
+Feel free to open issues or pull requests to improve structural scraping stability! Developed with precision by [@ShamimRabby](https://github.com/ShamimRabby).
